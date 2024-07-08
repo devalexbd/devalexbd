@@ -5,7 +5,7 @@
 # ✍ About me:
  - I am a Software Developer
  - Pronouns: He/They
- - I have experience coding with: HTML, CSS, JavaScript, TypeScript
+ - I have experience coding with: HTML, CSS/SCSS, JavaScript, TypeScript
  - I have experience using: React.js
 
 # 🤔 I'm currently interested in:
