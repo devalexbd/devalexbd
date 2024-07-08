@@ -9,6 +9,7 @@
  - I have experience using: React.js
 
 # 🤔 I'm currently interested in:
+ - Fun frontend web projects
  - Learning backend web development
  - Re-learning Python
 
