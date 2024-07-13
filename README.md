@@ -12,7 +12,7 @@
  - Fun frontend web projects
  - Learning backend web development
  - Re-learning Python
- - Learning C++
+ - Learning C#
 
 # 📫 How to reach me:
 You can reach me through:
