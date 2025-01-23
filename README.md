@@ -4,7 +4,7 @@
 
 # ✍ About me:
  - I am a Software Developer
- - Pronouns: He/They
+ - Pronouns: They/Them
  - I have experience coding with: HTML, CSS/SCSS, JavaScript, TypeScript
  - I have experience using: React.js
 
